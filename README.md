@@ -1,2 +1,2 @@
-# practica-04
+# practicas
 practicas
